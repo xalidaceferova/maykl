@@ -1,4 +1,9 @@
 heyoooooo
 merhabaaaaaa
+<<<<<<< HEAD
 nasilsiiiiiin
 yupiiiiiiii
+=======
+nasilsiiiiin
+iyimisinnn??
+>>>>>>> fd20ad8c1f4f79518565ff323ceea0f2ec13a3aa
